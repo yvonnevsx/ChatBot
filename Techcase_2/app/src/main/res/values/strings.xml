@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Techcase2</string>
+    <string name="microphone" />
+    <string name="send" />
+</resources>
