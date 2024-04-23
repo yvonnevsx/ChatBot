@@ -11,7 +11,7 @@ fun queryOpenAI(text: String, onResponse: (String) -> Unit) {
     CoroutineScope(Dispatchers.IO).launch {
         val url = URL("https://api.openai.com/v1/chat/completions")
         val apiKey =
-            "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"
+            "APIKEY"
         val messages = """
             [
                 {"role": "user", "content": "$text"}
