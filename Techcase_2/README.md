@@ -4,6 +4,9 @@ TechCase2 is an Android chat application that uses speech recognition and text-t
 technologies to give an interactive chatting experience. The app allows users to speak their
 messages into the app and receive responses in both text and spoken form.
 
+## Demo kink
+https://youtu.be/iotA3BR9pww
+
 ## Features
 
 - **Speech to Text**: Convert spoken words into text using Android's `SpeechRecognizer`.
